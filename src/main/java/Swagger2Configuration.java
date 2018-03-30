@@ -24,7 +24,7 @@ public class Swagger2Configuration {
     private ApiInfo buildApiInf() {
         return new ApiInfoBuilder()
                 .title("Spring Boot中使用Swagger2 UI构建API文档")
-                .contact("莫莫")
+                .contact("momo")
                 .version("1.0")
                 .build();
     }
